@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e6e6e6</color>
+    <color name="colorPrimaryDark">#1F2837</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="blue">#51a2e5</color>
+    <color name="iconblue">#5fabed</color>
+    <color name="iconbluesel">#416A8C</color>
+    <color name="darkerBlue">#e6e6e6</color>
+    <color name="black">#000000</color>
+    <color name="unselectedText">#e6e6e6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="underlayTextOverImage">#A8008807</color>
+    <color name="subscribe">#A83C3C3C</color>
+    <color name="buttonText">#A8323232</color>
+    <color name="dividercolor">#A8757575</color>
+    <color name="lightgrey">#f5f5f5</color>
+    <color name="danger">#A8FB8484</color>
+    <color name="confirm">#A884E349</color>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent" android:layout_width="match_parent">
+
+<!--    <item
+        android:id="@+id/nav_Home"
+        android:enabled="true"
+        android:icon="@drawable/ic_iconmonstr_home"
+        android:title="@string/nav_Home"
+        app:showAsAction="ifRoom" />-->
+    <item
+        android:id="@+id/nav_Map"
+        android:enabled="true"
+        android:icon="@drawable/ic_iconmonstr_map"
+        android:title="@string/nav_Map"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_Search"
+        android:enabled="true"
+        android:icon="@drawable/ic_iconmonstr_directory"
+        android:title="@string/nav_Search"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_Blog"
+        android:enabled="true"
+        android:icon="@drawable/ic_iconmonstr_blog"
+        android:title="@string/nav_Blog"
+        app:showAsAction="ifRoom" />
+</menu>
